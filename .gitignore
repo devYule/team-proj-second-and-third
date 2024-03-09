@@ -22,6 +22,7 @@ bin/
 src/main/generated/**
 src/main/resources/application-hyunmin.yaml
 src/main/resources/application-sw.yaml
+src/main/resources/application.yaml
 .idea
 *.iws
 *.iml
